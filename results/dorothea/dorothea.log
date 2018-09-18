@@ -1,0 +1,4 @@
+2018-09-18 18:37:05,782 Machine info: Platform: Darwin-17.5.0-x86_64-i386-64bit
+2018-09-18 18:37:05,783 Machine info: Memory: svmem(total=8589934592L, available=2140856320L, percent=75.1, used=6799056896L, free=346583040L, active=3378098176L, inactive=1794273280L, wired=1626685440L)
+2018-09-18 18:37:05,783 Machine info: Python version: 2.7.13
+2018-09-18 18:37:05,783 Dataset = dorothea

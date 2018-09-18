@@ -1,0 +1,19 @@
+2018-09-16 20:09:23,457 Machine info: Platform: Linux-4.2.0-16-generic-x86_64-with-debian-jessie-sid
+2018-09-16 20:09:23,458 Machine info: Memory: svmem(total=67508035584, available=67064602624, percent=0.7, used=266280960, free=66545901568, active=462442496, inactive=192548864, buffers=154877952, cached=540975104, shared=52158464, slab=124121088)
+2018-09-16 20:09:23,458 Machine info: Python version: 2.7.10
+2018-09-16 20:09:23,458 Now Start ======christine======
+2018-09-16 20:21:34,532 Now Start ======philippine======
+2018-09-16 20:25:20,753 Now Start ======jasmine======
+2018-09-16 20:25:43,752 Now Start ======madeline======
+2018-09-16 20:26:40,354 Now Start ======sylvine======
+2018-09-16 20:27:17,269 Now Start ======adult======
+2018-09-16 20:38:03,143 Now Start ======cadata======
+2018-09-16 20:38:41,189 Now Start ======digits======
+2018-09-16 21:20:34,590 Now Start ======dorotha======
+2018-09-16 21:20:35,787 Now Start ======newsgroups======
+2018-09-16 22:15:09,270 Now Start ======volkert======
+2018-09-16 23:27:15,879 Now Start ======albert======
+2018-09-17 00:49:01,231 Now Start ======dilbert======
+2018-09-17 01:29:30,627 Now Start ======robert======
+2018-09-17 03:24:02,592 Now Start ======fabert======
+2018-09-17 03:34:15,664 Total runtime = 26692.205736 seconds.
